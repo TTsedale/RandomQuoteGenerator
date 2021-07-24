@@ -19,6 +19,8 @@
     align-items: center;
     padding: 20px;
     margin: auto;
+    justify-content: center;
+    max-width: 600px;
     
 }
 
@@ -26,9 +28,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /* height: 100vh; */
-    width: 600px;
+    height: 50vh; 
+    /* width: 600px; */
     align-content: center;
+ 
 
    
 
